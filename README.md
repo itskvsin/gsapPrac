@@ -56,7 +56,3 @@ Code may not follow production best practices.
 
 Feel free to contribute or fork for your own learning.
 
-
-
-```
-Let me know if you want to add a live demo link, specific animations you implemented, or tweak the structure for CRA vs Vite.

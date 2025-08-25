@@ -15,22 +15,13 @@ This repository contains practice projects using **GSAP (GreenSock Animation Pla
 - React
 - GSAP
 - ScrollTrigger (optional)
-- Vite / Create React App (depending on setup)
+- Vite
 - CSS Modules or Styled Components
 
 ## 📂 Project Structure
 
 ```
-/gsap-react-practice
-├── /src
-│ ├── /components
-│ │ ├── AnimationOne.jsx
-│ │ ├── AnimationTwo.jsx
-│ │ └── ...
-│ ├── App.jsx
-│ └── main.jsx
-├── package.json
-└── README.md
+will be decided in future
 ```
 
 
@@ -38,17 +29,14 @@ This repository contains practice projects using **GSAP (GreenSock Animation Pla
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/gsap-react-practice.git
-
-# Navigate into the project
-cd gsap-react-practice
+git clone https://github.com/itskvsin/gsapPrac.git
 
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
-
+```
 
 📚 Learning Goals
 
